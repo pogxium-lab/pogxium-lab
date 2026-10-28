@@ -10,7 +10,7 @@ Pogxium Lab favours small, verifiable experiments on real quantum hardware: circ
 
 | Work | Paper | Code and data |
 |---|---|---|
-| False witnesses for small Shor experiments: a coherent modular multiplication modulo 21 (2026) | [doi:10.5281/zenodo.23731578](https://doi.org/10.5281/zenodo.23731578) | [false-witnesses-shor](https://github.com/pogxium-lab/false-witnesses-shor) · [doi:10.5281/zenodo.23731576](https://doi.org/10.5281/zenodo.23731576) |
+| False witnesses for small Shor experiments: a coherent modular multiplication modulo 21 (2026) | [doi:10.5281/zenodo.23731577](https://doi.org/10.5281/zenodo.23731577) | [false-witnesses-shor](https://github.com/pogxium-lab/false-witnesses-shor) · [doi:10.5281/zenodo.23731575](https://doi.org/10.5281/zenodo.23731575) |
 
 ## Status
 
